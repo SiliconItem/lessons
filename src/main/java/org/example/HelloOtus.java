@@ -7,7 +7,7 @@ import com.google.common.hash.Hashing;
 
 import java.util.UUID;
 
-public class Main {
+public class HelloOtus {
 
     public static void main(String[] args) {
         System.out.println("Fetching object hash using Guava");
